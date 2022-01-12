@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Game Designing
 - 💞️ I’m looking to collaborate on Decentralised Apps, Games
 - 📫 How to reach me: Drop an email on realnamotom@gmail.com
+- Recently developed an interest in mazes and world designs.
 
 <!---
 namotom/namotom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
