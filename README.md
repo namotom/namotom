@@ -2,7 +2,9 @@
 - 👀 I’m interested in game designing, puzzles, mathematics and cryptography.
 - 🌱 I’m currently learning Procedural Generation.
 - 💞️ I’m looking to collaborate on Decentralised Apps, Games
-- 📫 How to reach me: Drop an email on realnamotom@gmail.com
+- 📫 How to reach me: 
+-     Drop an email on realnamotom@gmail.com
+-     Ping me on Twitter @realnamotom
 - Recently developed an interest in mazes and world designs.
 
 <!---
