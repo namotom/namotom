@@ -2,7 +2,7 @@
 - 👀 I’m interested in game designing, puzzles, mathematics and cryptography.
 - 🌱 I’m currently learning Procedural Generation.
 - 💞️ I’m looking to collaborate on Game Deisgns, Game Balancing, Game Economics Designs
-- 📫 How to reach me: Drop an email on realnamotom@gmail.com or Ping me on Twitter @realnamotom
+- 📫 How to reach me: Ping me on Twitter @realnamotom
 - Recently developed an interest in mazes and world designs.
 
 <!---
