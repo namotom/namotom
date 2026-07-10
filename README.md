@@ -15,7 +15,9 @@ I am a Designer Generalist and problem solver who likes to build systems, tools,
 * Scaling modular design systems, custom tooling, and product strategy.
 
 ### 📫 Reach Me
+if you have an interesting idea, feel free to reach out to me via
 * **Twitter/X:** [@realnamotom](https://twitter.com/realnamotom)
+* **Reddit:** [u/realnamotom](https://www.reddit.com/user/realnamotom/)
 
 <!---
 namotom/namotom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
